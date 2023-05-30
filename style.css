@@ -1,0 +1,11 @@
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: orangered
+}
+carrito-item{
+    margin-right: 10px;
+    margin-left: 10px;
+}
